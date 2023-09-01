@@ -28,3 +28,7 @@ h1 {
         display: block;
     }
 }
+
+.lista-menu{
+    display: none;
+}

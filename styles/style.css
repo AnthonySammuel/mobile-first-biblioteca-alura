@@ -3,8 +3,9 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --fonte-principal: "poppins"
     --amarelo: #FECDE2F;
+    --fonte-principal: "poppins"
+   
 }
 
 body {

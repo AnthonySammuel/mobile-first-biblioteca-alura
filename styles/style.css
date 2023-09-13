@@ -2,10 +2,14 @@
 
 :root {
     --cor-de-fundo: #EBECEE;
+
     --branco: #FFFFFF;
-    --amarelo: #FECDE2F;
+
+    --amarelo: #FECD2F;
+
+    --roxo: #733887; 
+    
     --fonte-principal: "poppins"
-   
 }
 
 body {

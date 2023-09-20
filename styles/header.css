@@ -1,11 +1,11 @@
 .cabeçalho_menu-hamburger {
-    width: 24px;
-    height: 24px;
+    width: 70px;
+    height: 70px;
     background-image: url(../imagens/Menu.svg.png);
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-    }
+}
 
 .cabeçalho {
     background-color: var(--branco);
@@ -37,12 +37,19 @@ h1 {
 
 .lista-menu-titulo{
     color: var(--amarelo);
+    font-weight: 700;
 }
 
 .lista-menu-link{
     background: var(--roxo);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.div-menu{
+    display: none;
 }
 
 @media screen and (min-width: 1024px) {
